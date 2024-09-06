@@ -2,9 +2,6 @@
 402 - The case of the Why Gang ruby heist
 Stage 4 - Fox
 
-Officer: 1443671
-CaseNum: 402-3-22573106-1443671
-
 This final Why gang member Fox is the boss of the gang. Fox is particularly cunning and has hidden herself down this twisted network of alleys known as vice city. Head into vice city to find her but don’t get lost!
 
 - Write if statements in the draw loop to set the direction for the detective
